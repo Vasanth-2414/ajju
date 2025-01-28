@@ -273,7 +273,7 @@
 <body>
     <div class="video-container">
         <video autoplay muted loop>
-            <source src="sample4.mp4" type="video/mp4">
+            <img src="sky.gif" alt="Sky Animation">
         </video>
     </div>
     
@@ -300,7 +300,7 @@
         <div id="zara" class="content">
             <div class="video-container">
                 <video autoplay muted loop>
-                    <source src="sample8.mp4" type="video/mp4">
+                    <img src="sky.gif" alt="Sky Animation">
                 </video>
             </div>
             <div class="homecontent">
