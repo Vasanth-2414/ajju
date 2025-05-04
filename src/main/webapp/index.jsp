@@ -293,7 +293,7 @@
         <div id="home" class="content active">
             <div class="homecontent1">
                 <h1>Z A R A</h1>
-                <p>Hello users this is our project Zara is a virtual assistant developed for People, designed using <b>HTML , CSS , JS </b>to interact with users via a web-based interface. The assistant integrates voice recognition features to provide a hands-free experience, allowing users to interact with the assistant through voice commands as well as manual input. The goal of ZaRa is to enhance user engagement by providing a seamless and interactive way to obtain information and perform tasks.</p>
+                <p>Hello users this is our own mini project Zara is a virtual assistant developed for People, designed using <b>HTML , CSS , JS </b>to interact with users via a web-based interface. The assistant integrates voice recognition features to provide a hands-free experience, allowing users to interact with the assistant through voice commands as well as manual input. The goal of ZaRa is to enhance user engagement by providing a seamless and interactive way to obtain information and perform tasks.</p>
             </div>
                 
         </div>
