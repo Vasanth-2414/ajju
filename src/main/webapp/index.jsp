@@ -316,7 +316,7 @@
         <div id="help" class="content">
             <div class= "homecontent2">
                 <h3>What is ZaRa?</h3>
-                <p>ZaRa is a virtual assistant developed for People, designed using to interact with users via a web-based interface...</p>
+                <p>ZaRa is a virtual assistant developed for People, designed to interact with users via a web-based interface...</p>
             </div>
             <div class="help">
                 <h3>How do I use voice commands?</h3>
